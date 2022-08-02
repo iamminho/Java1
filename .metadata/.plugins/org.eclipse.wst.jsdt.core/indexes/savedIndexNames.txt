@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/minho/minho/Java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+473599120.index
+2009380205.index
+820019804.index
+3956170331.index
+1100940074.index
+3582471475.index
