@@ -9,6 +9,7 @@ public class Datatype {
 		System.out.println("6"+"6");
 		System.out.println(6*6);
 		System.out.println("111".length());
+		System.out.println();
 	}
 	
 }
